@@ -1,0 +1,8 @@
+strands-agents
+strands-agents-tools
+playwright
+beautifulsoup4
+lxml
+fastapi
+uvicorn[standard]
+pydantic

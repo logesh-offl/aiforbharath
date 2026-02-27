@@ -1,0 +1,4 @@
+qwen.qwen3-vl-235b-a22b
+global.anthropic.claude-haiku-4-5-20251001-v1:0
+global.amazon.nova-2-lite-v1:0
+amazon.nova-pro-v1:0
